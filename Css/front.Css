@@ -5,18 +5,10 @@
     background-color: red;
     margin: 0 auto; /* Centraliza o contêiner na tela horizontalmente */
 }
-
-.pressNumbers {
-    background-color: aqua;
+.press{
+    border: 2px solid;
+    width: 40px;
 }
-
-ul li {
-    display: inline-block;
-    margin-right: 10px;
-}
-
-.numbers {
-    font-size: 5em;
-    line-height: 3px;
-    
+.screen{
+    display: inline-flex;
 }
